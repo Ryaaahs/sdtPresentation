@@ -1,0 +1,51 @@
+Key Issues in Software Maintenance
+Technical Issues, Management Issues, Cost Estimation, Measurement
+
+(5.2)
+
+(2.1)Technical Issues
+	
+
+	2.1.1 Limited Understanding
+	Time it takes to make a change/correction in software they did not develop
+	Half of the total maintence effort is to understanding the software to be modified
+	Software comprehension is key
+	
+	2.1.2 Testing
+	The cost of testing is significant in terms of time and money
+	To validate problems, the maintainer should be available to run tests to reproduce the problems
+	Regression Testing: Retesting of software or a component 
+	Finding time to test the application is difficult
+	
+	2.1.3 Impact Analysis
+	Describes how to conduct, cost-effectively, a complete analysis of the impact of a change in software
+	Knowledge of the application is needed to determine the risk of the change
+	Change request is often called modification request (MR) or problem report (PR)
+	Must be analyzed and translated into software terms
+	Analyze -> Replicate Problem -> Develop options for implementing the modification
+		Document MR/PR, the results, and the execution options -> obtain approval for the modification option
+	The severity of the problem is often used to decide how and when it will be fixed.
+	
+	2.1.4 Maintainability
+	Maintainability should be defined, reviewed and controlled during software development
+		This is to reduce maintence costs.
+	Difficult to achieve due to the subcharacteristics are not the focus during development
+	Lack of documentation, Test environments
+	Presence of systematic and mature processes, techniques, and tools helps to enhance the maintainability of software
+
+(2.2) Management Issues
+
+	2.2.1 Aligment with Organizational Objectives
+	How to demostrate the return on investment with software maintenance activities.
+	Ojective of extending life of the product
+	Meet the demand of users and add enhancements
+	The ROI is less clear, so senior management view it as a huge usage of resources
+	while no clear benefit for the organzation
+
+	2.2.2 Staffing
+	Maintenance is not viewed as glamorous work and Software Maintenance personnel are view as
+	"second-class citizens" and morale suffers.
+	-- PERSONAL NOTE: This type of work is considered typically as cost-center
+	-- Should look into these concepts
+
+	2.2.3 Process
