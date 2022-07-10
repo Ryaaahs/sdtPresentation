@@ -81,3 +81,73 @@ Should add within the slides about the rogers maintenance issue that occured
 
 (2.3) Maintenance Cost Estimation
 	
+	Cost is an important factor when planning software maintainenace (How many resources)
+	
+	2.3.1 Cost Estimation
+	Affected by many techincal and non-technical factors
+	IEEE 14764 (LOOK INTO IEEE 14764) states the two most popular approaches to estimating resources are 
+	parametric models and use of experience
+
+	2.3.2 Parametric Models
+	Parametric cost modeling (mathematical models)
+	Using historical data from previous maintenance is needed to calibrate the mathematical models
+	Cost driver attributes affect the estimates.
+
+	2.3.3 Experience
+	Using "expert" judgement 
+	Best approach is a combination of experience and historical data.
+	The cost to conduct a modification (in terms of number of people and amount of time) is then derived		
+	
+	Maintenance estimation historical data should be provided as a result of a measurement 
+	program
+
+(2.4) Software Maintenance Measurement
+	Entities related to software maintenance include process, resources, and product
+	whose attribute can be subjected to measurement
+
+	These measures can be derived from the maintenance process, personnel, size, complexity
+	quality, understandability, maintainability, and effort
+
+	Complexity measures can be obtain by available commerical tools -> (LOOK INTO TO)
+
+	2.4.1 Specific Measures
+	The maintainer must determine which measures are appropriate for the specific organization
+	based on that organization's own context
+
+	The software quality model suggests measures that are specific for software maintenance -> (LOOK INTO TO)
+	easures for subcharacteristics of maintainability include the following
+	
+	• Analyzability: measures of the maintainer’s 
+	effort or resources expended in trying either 
+	to diagnose deficiencies or causes of failure 
+	or to identify parts to be modified.
+
+	• Changeability: measures of the maintainer’s 
+	effort associated with implementing a specified modification.
+	
+	• Stability: measures of the unexpected behavior of software, including that encountered 
+	during testing.
+	
+	• Testability: measures of the maintainer’s and 
+	users’ effort in trying to test the modified 
+	software.
+	
+	• Other measures that maintainers use include
+	
+	• size of the software,
+	
+	• complexity of the software ,
+	
+	• understandability, and
+	
+	• maintainability.
+	
+	Providing software maintenance effort, by categories, for different applications provides 
+	business information to users and their organizations. It can also enable the comparison of software maintenance profiles internally within an 
+	organization
+	
+
+	
+	
+
+	
