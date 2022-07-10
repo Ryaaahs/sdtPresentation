@@ -49,3 +49,31 @@ Technical Issues, Management Issues, Cost Estimation, Measurement
 	-- Should look into these concepts
 
 	2.2.3 Process
+	Software maintenance has a set of activities methods, practices
+	--NEED TO RESEARCH MORE
+	
+	2.2.4 Organizational aspects of maintenance
+	Which org will be responsible for maintenance of software.
+	The team who developed the software, doesn't always maintain it.
+	The org will either stay with the original developer, or go with a permanent maintenance team
+
+	Having a team deciacted to this:
+	 	allows for specialization;
+		creates communication channels;
+		promotes an egoless, collegiate atmosphere;
+		reduces dependency on individuals;
+		allows for periodic audit checks.
+	
+	Given pros and cons, it should be determined on a case-by-case basis
+	What is important is the delegation or assignment of the maintenance responsibility to a 
+	single group or person, regardless of the organization’s structure
+
+	2.2.5 OUtsorucing
+	Outsoucing has become a major industry.
+	Orgs are outsourcing entire portfolios of software, including software maintainence
+	Selected for non-mission critical software 
+
+	Main issues outsourcers face is determining the scope of the maintenance services required
+	Outsourcing requires a significant initial investment and the setup of a maintenance process
+	that will require automation.
+	
