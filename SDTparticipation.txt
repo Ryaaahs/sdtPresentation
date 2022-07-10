@@ -1,6 +1,8 @@
 Key Issues in Software Maintenance
 Technical Issues, Management Issues, Cost Estimation, Measurement
 
+Should add within the slides about the rogers maintenance issue that occured
+
 (5.2)
 
 (2.1)Technical Issues
@@ -76,4 +78,6 @@ Technical Issues, Management Issues, Cost Estimation, Measurement
 	Main issues outsourcers face is determining the scope of the maintenance services required
 	Outsourcing requires a significant initial investment and the setup of a maintenance process
 	that will require automation.
+
+(2.3) Maintenance Cost Estimation
 	
